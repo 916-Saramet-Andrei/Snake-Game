@@ -1,0 +1,3 @@
+[Settings]
+dim = 7
+apples = 10
